@@ -2153,4 +2153,15 @@
   Services:
   - CE
 # ---------------------------------------------------------
+- Class: SCHEDULED
+  ID: 1884804827
+  Description: Cluster Maintenance
+  Severity: Outage
+  StartTime: Aug 14, 2024 12:01 +0000
+  EndTime: Aug 14, 2024 21:00 +0000
+  CreatedTime: Aug 12, 2024 16:34 +0000
+  ResourceName: Purdue-Negishi
+  Services:
+  - CE
+# ---------------------------------------------------------
 
