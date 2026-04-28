@@ -2059,4 +2059,138 @@
   Services:
   - net.perfSONAR.Latency
 # ---------------------------------------------------------
+- Class: UNSCHEDULED
+  ID: 2423765236
+  Description: Unplanned power outage due to storms
+  Severity: Outage
+  StartTime: Apr 28, 2026 01:30 +0000
+  EndTime: Apr 28, 2026 02:30 +0000
+  CreatedTime: Apr 28, 2026 11:42 +0000
+  ResourceName: Purdue-Bell
+  Services:
+  - CE
+# ---------------------------------------------------------
+- Class: UNSCHEDULED
+  ID: 2423765237
+  Description: Unplanned power outage due to storms
+  Severity: Outage
+  StartTime: Apr 28, 2026 01:30 +0000
+  EndTime: Apr 28, 2026 02:30 +0000
+  CreatedTime: Apr 28, 2026 11:42 +0000
+  ResourceName: Purdue-Brown
+  Services:
+  - CE
+# ---------------------------------------------------------
+- Class: UNSCHEDULED
+  ID: 2423765238
+  Description: Unplanned power outage due to storms
+  Severity: Outage
+  StartTime: Apr 28, 2026 01:30 +0000
+  EndTime: Apr 28, 2026 02:30 +0000
+  CreatedTime: Apr 28, 2026 11:42 +0000
+  ResourceName: Purdue-EOS-SE
+  Services:
+  - XRootD component
+  - WebDAV
+  - EOS
+# ---------------------------------------------------------
+- Class: UNSCHEDULED
+  ID: 2423765239
+  Description: Unplanned power outage due to storms
+  Severity: Outage
+  StartTime: Apr 28, 2026 01:30 +0000
+  EndTime: Apr 28, 2026 02:30 +0000
+  CreatedTime: Apr 28, 2026 11:42 +0000
+  ResourceName: Purdue-Gautschi
+  Services:
+  - CE
+# ---------------------------------------------------------
+- Class: UNSCHEDULED
+  ID: 2423765240
+  Description: Unplanned power outage due to storms
+  Severity: Outage
+  StartTime: Apr 28, 2026 01:30 +0000
+  EndTime: Apr 28, 2026 02:30 +0000
+  CreatedTime: Apr 28, 2026 11:42 +0000
+  ResourceName: Purdue-Hadoop-SE-Gridftp
+  Services:
+  - GridFtp
+# ---------------------------------------------------------
+- Class: UNSCHEDULED
+  ID: 2423765241
+  Description: Unplanned power outage due to storms
+  Severity: Outage
+  StartTime: Apr 28, 2026 01:30 +0000
+  EndTime: Apr 28, 2026 02:30 +0000
+  CreatedTime: Apr 28, 2026 11:42 +0000
+  ResourceName: Purdue-Halstead
+  Services:
+  - CE
+# ---------------------------------------------------------
+- Class: UNSCHEDULED
+  ID: 2423765242
+  Description: Unplanned power outage due to storms
+  Severity: Outage
+  StartTime: Apr 28, 2026 01:30 +0000
+  EndTime: Apr 28, 2026 02:30 +0000
+  CreatedTime: Apr 28, 2026 11:42 +0000
+  ResourceName: Purdue-Hammer
+  Services:
+  - CE
+# ---------------------------------------------------------
+- Class: UNSCHEDULED
+  ID: 2423765243
+  Description: Unplanned power outage due to storms
+  Severity: Outage
+  StartTime: Apr 28, 2026 01:30 +0000
+  EndTime: Apr 28, 2026 02:30 +0000
+  CreatedTime: Apr 28, 2026 11:42 +0000
+  ResourceName: Purdue-Negishi
+  Services:
+  - CE
+# ---------------------------------------------------------
+- Class: UNSCHEDULED
+  ID: 2423765244
+  Description: Unplanned power outage due to storms
+  Severity: Outage
+  StartTime: Apr 28, 2026 01:30 +0000
+  EndTime: Apr 28, 2026 02:30 +0000
+  CreatedTime: Apr 28, 2026 11:42 +0000
+  ResourceName: T2_US_Purdue_Squid1
+  Services:
+  - Squid
+# ---------------------------------------------------------
+- Class: UNSCHEDULED
+  ID: 2423765245
+  Description: Unplanned power outage due to storms
+  Severity: Outage
+  StartTime: Apr 28, 2026 01:30 +0000
+  EndTime: Apr 28, 2026 02:30 +0000
+  CreatedTime: Apr 28, 2026 11:42 +0000
+  ResourceName: T2_US_Purdue_Squid2
+  Services:
+  - Squid
+# ---------------------------------------------------------
+- Class: UNSCHEDULED
+  ID: 2423765246
+  Description: Unplanned power outage due to storms
+  Severity: Outage
+  StartTime: Apr 28, 2026 01:30 +0000
+  EndTime: Apr 28, 2026 02:30 +0000
+  CreatedTime: Apr 28, 2026 11:42 +0000
+  ResourceName: US-Purdue BW
+  Services:
+  - net.perfSONAR.Bandwidth
+# ---------------------------------------------------------
+- Class: UNSCHEDULED
+  ID: 2423765247
+  Description: Unplanned power outage due to storms
+  Severity: Outage
+  StartTime: Apr 28, 2026 01:30 +0000
+  EndTime: Apr 28, 2026 02:30 +0000
+  CreatedTime: Apr 28, 2026 11:42 +0000
+  ResourceName: US-Purdue LT
+  Services:
+  - net.perfSONAR.Latency
+# ---------------------------------------------------------
 
